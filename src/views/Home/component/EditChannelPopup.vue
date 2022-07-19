@@ -86,7 +86,7 @@ export default {
   },
   data () {
     return {
-      isShow: true,
+      isShow: false,
       allChannels: [],
       // 用于标记是否处于编辑状态
       isEdit: false
