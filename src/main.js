@@ -10,6 +10,7 @@ import Vant from 'vant'
 import 'vant/lib/index.css'
 // 引入flexble
 import 'amfe-flexible/index.min.js'
+
 Vue.config.productionTip = false
 Vue.use(Vant)
 new Vue({
